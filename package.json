@@ -19,7 +19,7 @@
     "yargs": "^14.0.0"
   },
   "devDependencies": {
-    "all-contributors-cli": "^6.7.0",
+    "all-contributors-cli": "^6.9.2",
     "codecov": "^3.5.0",
     "eslint": "^6.0.0",
     "eslint-config-airbnb-base": "^14.0.0",
